@@ -1,0 +1,7 @@
+.metacritic-score-box {
+  height: 35px; width: 35px;
+  border-radius: 6px;
+  color: #262626; font-weight: 600; font-size: 18px; line-height: 1rem;
+  background: #00ce7a;
+  display: flex; align-items: center; justify-content: center; flex-direction: column;
+}

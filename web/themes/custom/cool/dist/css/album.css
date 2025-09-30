@@ -1,0 +1,8 @@
+/*!*************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./src/js/packages/album/styles/styles.css ***!
+  \*************************************************************************************************************************************/
+.album .card{ border: none; min-height: 340px;}
+.album .card img{ height:auto; width: auto;}
+
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi4vY3NzL2FsYnVtLmNzcyIsIm1hcHBpbmdzIjoiOzs7QUFBQSxjQUFjLFlBQVksRUFBRSxpQkFBaUIsQ0FBQztBQUM5QyxrQkFBa0IsV0FBVyxFQUFFLFdBQVcsQ0FBQyIsInNvdXJjZXMiOlsid2VicGFjazovL2Nvb2wvLi9zcmMvanMvcGFja2FnZXMvYWxidW0vc3R5bGVzL3N0eWxlcy5jc3MiXSwic291cmNlc0NvbnRlbnQiOlsiLmFsYnVtIC5jYXJkeyBib3JkZXI6IG5vbmU7IG1pbi1oZWlnaHQ6IDM0MHB4O31cclxuLmFsYnVtIC5jYXJkIGltZ3sgaGVpZ2h0OmF1dG87IHdpZHRoOiBhdXRvO31cclxuIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9*/

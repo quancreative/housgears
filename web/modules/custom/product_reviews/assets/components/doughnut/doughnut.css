@@ -1,0 +1,46 @@
+/* container controls size; make responsive by using max-width */
+.circular-chart {
+  width: 40px;           /* default visual size */
+  max-width: 100%;        /* responsive */
+  aspect-ratio: 1/1;      /* keep square (works in modern browsers) */
+  display: inline-block;
+}
+
+/* SVG scales to container */
+.circular-chart__svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+/* background circle */
+.circular-chart__bg {
+  fill: none;
+  stroke: #ececec;
+  stroke-width: 10;
+}
+
+/* progress circle */
+.circular-chart__progress {
+  fill: none;
+  stroke-width: 10;
+  stroke-linecap: round;
+  transform: rotate(-90deg);
+  transform-origin: 50% 50%;
+  /* animate stroke offset (duration overridden or toggled in JS) */
+  transition: stroke-dashoffset 1s ease;
+}
+
+/* center text */
+.circular-chart__text {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  font-size: 40px;
+  fill: #222;
+  font-weight: 600;
+}
+
+/* small layout tweak for tiny sizes */
+@media (max-width: 300px) {
+  .circular-chart { width: 120px; }
+  .circular-chart__text { font-size: 14px; }
+}

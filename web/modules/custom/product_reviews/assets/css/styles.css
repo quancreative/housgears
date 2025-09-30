@@ -1,0 +1,16 @@
+.product-reviews.grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; /* space between columns/rows */ }
+.review { min-width: 0; /* prevent overflow */ }
+
+.metacritic-score-box {
+  height: 35px; width: 35px;
+  border-radius: 6px;
+  color: #262626; font-weight: 600; font-size: 18px; line-height: 1rem;
+  background: #00ce7a;
+  display: flex; align-items: center; justify-content: center; flex-direction: column;
+}
+
+@media (max-width: 768px) {
+  .product-reviews.grid-2 {
+    grid-template-columns: 1fr;
+  }
+}
