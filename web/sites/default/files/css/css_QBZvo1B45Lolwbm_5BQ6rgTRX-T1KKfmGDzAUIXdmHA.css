@@ -1,2 +1,0 @@
-/* @license GPL-2.0-or-later https://www.drupal.org/licensing/faq */
-.album .card{border:none;min-height:340px;}.album .card .card-media{max-height:340px;overflow:hidden;}.album .card img{height:100%;width:100%;object-fit:contain;}@media (min-width:375px){.album .card{min-height:auto;height:calc(100% - 10%);}.album .card .card-media{padding:20px;}}@media (min-width:390px){}@media (min-width:576px){}@media all and (min-width:40em){.album .card{border:none;min-height:340px;}}
