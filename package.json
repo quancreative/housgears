@@ -2,9 +2,12 @@
   "name": "project-home-product-review",
   "version": "1.0.0",
   "scripts": {
-    "start": "http-server"
+    "start": "http-server",
+    "check-links": "node index.mjs"
   },
   "devDependencies": {
-    "http-server": "^14.1.1"
+    "chalk": "^5.6.2",
+    "http-server": "^14.1.1",
+    "linkinator": "^7.3.0"
   }
 }
