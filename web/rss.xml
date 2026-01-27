@@ -7,6 +7,40 @@
     <language>en</language>
     
     <item>
+  <title>Search</title>
+  <link>http://www.housgears.com/search</link>
+  <description>
+&lt;span&gt;Search&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;admin&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2026-01-23T23:41:32-05:00" title="Friday, 23 January 2026 - 23:41"&gt;Fri, 23 Jan 2026 - 23:41&lt;/time&gt;
+&lt;/span&gt;
+
+      &lt;div&gt;
+              &lt;div&gt;
+
+
+
+    &lt;div class="paragraph paragraph--type--site-search paragraph--view-mode--default container mb-5"&gt;
+              &lt;div class="row"&gt;
+          &lt;div class="col-md-12"&gt;
+
+            &lt;div id="react-site-search" class="js-injection-component"&gt;
+              
+            &lt;/div&gt;
+
+          &lt;/div&gt;
+        &lt;/div&gt;
+          &lt;/div&gt;
+&lt;/div&gt;
+          &lt;/div&gt;
+  </description>
+  <pubDate>Sat, 24 Jan 2026 04:41:32 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">110 at http://www.housgears.com</guid>
+    </item>
+<item>
   <title>Black+Blum - Water Bottle - Stainless Steel Thermal </title>
   <link>http://www.housgears.com/rooms/home-gym/blackblum-water-bottle-stainless-steel-thermal</link>
   <description>
@@ -783,21 +817,6 @@
   <pubDate>Fri, 26 Sep 2025 01:57:35 +0000</pubDate>
     <dc:creator>admin</dc:creator>
     <guid isPermaLink="false">81 at http://www.housgears.com</guid>
-    </item>
-<item>
-  <title> Mudroom</title>
-  <link>http://www.housgears.com/rooms/mudroom</link>
-  <description>
-&lt;span&gt; Mudroom&lt;/span&gt;
-
-&lt;span&gt;&lt;span&gt;admin&lt;/span&gt;&lt;/span&gt;
-
-&lt;span&gt;&lt;time datetime="2025-09-25T15:11:19-04:00" title="Thursday, 25 September 2025 - 15:11"&gt;Thu, 25 Sep 2025 - 15:11&lt;/time&gt;
-&lt;/span&gt;
-</description>
-  <pubDate>Thu, 25 Sep 2025 19:11:19 +0000</pubDate>
-    <dc:creator>admin</dc:creator>
-    <guid isPermaLink="false">80 at http://www.housgears.com</guid>
     </item>
 
   </channel>
