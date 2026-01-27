@@ -27,11 +27,12 @@ yarn-debug.log*
 .pnp.*
 .pnpm/
 # Ignore compiled files
-dist/
 build/
 tmp/
 temp/
 .cache/
+# We need the dist folder for all ReactJS apps, so we won't ignore it
+# dist/
 
 
 # oauth keys
