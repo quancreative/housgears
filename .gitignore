@@ -34,7 +34,6 @@ temp/
 # We need the dist folder for all ReactJS apps, so we won't ignore it
 # dist/
 
-
 # oauth keys
 oauth_keys/
 
